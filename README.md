@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey there 👋
+
+I am Joey - a software engineer at MSTS who moonlights as a Javascript Instructor for the [Launchcode](https://www.launchcode.org/) LC101 program. I am super passionate about showing that it doesn't take a degree to change your life and land a job in Tech! I enjoy learning new things, teaching those things to people we are interested, and implementing them in my day to day life. One of my aspirations is to speak at a conference on the pros and cons of hiring non typical developers!
+
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
+- 💬 Ask me about my experience with the Global Game Jam
+- 📫 How to reach me: Twitter [@JoeCowsert](https://twitter.com/JoeCowsert) or cowsertjoe@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I used to be a Costume Character performer at Six Flags
 
 <!--
 **jcowsert/jcowsert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
